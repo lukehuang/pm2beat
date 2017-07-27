@@ -1,0 +1,9 @@
+- key: pm2beat
+  title: pm2beat
+  description:
+  fields:
+    - name: counter
+      type: long
+      required: true
+      description: >
+        PLEASE UPDATE DOCUMENTATION

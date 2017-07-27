@@ -1,0 +1,7 @@
+################### Pm2beat Configuration Example #########################
+
+############################# Pm2beat ######################################
+
+pm2beat:
+  # Defines how often an event is sent to the output
+  period: 1s
